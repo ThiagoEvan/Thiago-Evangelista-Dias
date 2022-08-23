@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Thiago
-- 👀 I’m interested in Java Script, HTML, CSS and Python.
+- 👋 Hi, I’m Thiago Evangelista Dias
+- 👀 I’m interested in Python, Data Base and Java.
 - 🌱 I’m currently learning Python and Java Script.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tevangelista504@gmail.com
 
 
