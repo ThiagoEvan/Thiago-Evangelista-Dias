@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Thiago Evangelista Dias
-- 👀 I’m interested in Python, Data Base and Java.
-- 🌱 I’m currently learning Python and Java Script.
-- 📫 How to reach me tevangelista504@gmail.com
+<div align="center">
+  <a href="https://github.com/ThiagoEvan">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagoEvan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoEvan&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+  
 
 
