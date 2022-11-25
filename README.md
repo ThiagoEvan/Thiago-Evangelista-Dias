@@ -1,7 +1,7 @@
 <div align="center">
 
   ![](https://github-readme-stats.vercel.app/api?username=ThiagoEvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?    username=ThiagoEvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoEvan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   <div border-radius=5>  
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
