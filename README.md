@@ -19,4 +19,3 @@ Olá! Eu sou o Thiago, técnico em programação.
 ##
 ##
 
-![snake gif](https://github.com/ThiagoEvan/ThiagoEvan/blob/output/github-contribution-grid-snake.svg)
